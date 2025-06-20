@@ -1,0 +1,20 @@
+# Librerías principales para análisis de datos
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualización
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Machine Learning y Estadísticas
+scikit-learn>=1.2.0
+scipy>=1.10.0
+
+# Jupyter y entorno de desarrollo
+jupyter>=1.0.0
+notebook>=7.0.0
+ipykernel>=6.0.0
+
+# Utilidades adicionales
+openpyxl>=3.1.0  # Para leer/escribir archivos Excel
+plotly>=5.13.0   # Para visualizaciones interactivas 
